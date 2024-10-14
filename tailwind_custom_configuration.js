@@ -13,7 +13,8 @@ tailwind.config = {
 
           green_color: 'rgb(14, 122, 129)',
 
-          gradient_color: 'linear-gradient(270.00deg, rgb(255, 0, 0) 0%, rgb(255, 137, 56) 100%)',
+          custom_orange_color: 'rgb(255, 137, 56)',
+          custom_red_color: 'rgb(255, 0, 0)',
 
           bg_featured_color: 'linear-gradient(180.00deg, rgb(244, 244, 244),rgba(244, 244, 244, 0) 100%)',
           bg_color_1: 'rgba(87, 118, 57, 0.1)',
