@@ -5,6 +5,7 @@ tailwind.config = {
           white_color: 'rgb(255, 255, 255)',
           shade_white_color: 'rgb(244, 244, 244)',
           shade_white_color_2: 'rgba(244, 244, 244, 0)',
+          shade_icon_color: 'rgba(255, 255, 255, 0.05)',
 
           black_color: 'rgb(28, 28, 28)',
           shade_black_color: 'rgb(73, 73, 73)',
@@ -23,7 +24,10 @@ tailwind.config = {
           color_bg_4: 'rgba(255, 255, 255, 0)',
           footer_bg_color_1: 'rgba(255, 0, 0, 0.1)',
           footer_bg_color_2: 'rgba(255, 137, 56, 0.1)',
-        }
+        },
+        gridTemplateColumns: {
+          'customFraction': '.8fr 1.2fr', // Custom fraction-based column sizes
+        },
       }
     }
   }
