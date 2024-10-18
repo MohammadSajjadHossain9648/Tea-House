@@ -17,11 +17,12 @@ tailwind.config = {
           custom_orange_color: 'rgb(255, 137, 56)',
           custom_red_color: 'rgb(255, 0, 0)',
 
-          bg_featured_color: 'linear-gradient(180.00deg, rgb(244, 244, 244),rgba(244, 244, 244, 0) 100%)',
-          bg_color_1: 'rgba(87, 118, 57, 0.1)',
-          bg_color_2: 'rgba(230, 166, 35, 0.1)',
-          bg_color_3: 'linear-gradient(90.00deg, rgb(217, 217, 217), rgba(255, 255, 255, 0) 100%)',
-          bg_footer_color: 'linear-gradient(270.00deg, rgba(255, 0, 0, 0.1), rgba(255, 137, 56, 0.1) 100%);',
+          color_bg_1: 'rgba(230, 166, 35, 0.1)',
+          color_bg_2: 'rgba(87, 118, 57, 0.1)',
+          color_bg_3: 'rgb(217, 217, 217)',
+          color_bg_4: 'rgba(255, 255, 255, 0)',
+          footer_bg_color_1: 'rgba(255, 0, 0, 0.1)',
+          footer_bg_color_2: 'rgba(255, 137, 56, 0.1)',
         }
       }
     }
