@@ -4,6 +4,7 @@ tailwind.config = {
         colors: {
           white_color: 'rgb(255, 255, 255)',
           shade_white_color: 'rgb(244, 244, 244)',
+          shade_white_color_2: 'rgba(244, 244, 244, 0)',
 
           black_color: 'rgb(28, 28, 28)',
           shade_black_color: 'rgb(73, 73, 73)',
